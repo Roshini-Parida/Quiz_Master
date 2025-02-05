@@ -26,7 +26,7 @@ Welcome to the *Quiz Master App—an interactive quiz application built using **
 
 1. *Clone the Repository:*
    bash
-   git clone
+   git clone https://github.com/Roshini-Parida/Quiz_Master/tree/main
    cd quiz-master-app
    
 
